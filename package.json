@@ -1,0 +1,28 @@
+{
+    "name": "native-websocket-nodejs",
+    "version": "1.0.0",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/codanyks/native-websocket-nodejs.git"
+    },
+    "keywords": [
+        "codanyks",
+        "websocket",
+        "nodejs"
+    ],
+    "author": "codanyks <codanyks@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/codanyks/native-websocket-nodejs/issues"
+    },
+    "homepage": "https://github.com/codanyks/native-websocket-nodejs#readme",
+    "description": "",
+    "dependencies": {
+        "ws": "^8.18.1"
+    }
+}
